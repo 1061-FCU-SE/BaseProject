@@ -1,4 +1,4 @@
-# Sample Project
+# Base Project
 [![Build Status](https://travis-ci.org/1061-FCU-SE/BaseProject.svg?branch=master)](https://travis-ci.org/1061-FCU-SE/BaseProject)
 [![codecov](https://codecov.io/gh/1061-FCU-SE/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/1061-FCU-SE/BaseProject)
 
